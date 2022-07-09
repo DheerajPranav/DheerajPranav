@@ -9,11 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Image Classification & Recommender System - Tasks & Using Cloud services for deployment.
 - 🌱 I’m currently learning AWS Services
 - 👯 I’m looking to collaborate on Publishing Research work.
-- 🤔 I’m looking for help with Understanding Conceptual & Practical view AI.
-- 💬 Ask me about AI-ML Stuff
+- 💬 Ask me about AI-ML Stuff & I can help with Understanding Conceptual & Practical view AI.
 - 📫 How to reach me: linkedin.com/in/dheerajpranav/
-
-- ⚡ Fun fact: ...
 
 
 <div align="center">
