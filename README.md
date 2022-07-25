@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about AI-ML Stuff & I can help with Understanding Conceptual & Practical view AI.
 - 📫 How to reach me: linkedin.com/in/dheerajpranav/
 
+> Built & Maintaining ML Community ( Machine Learning Club) for Discussions / Debates regarding Impact of AI in current society.
+> Published two Research papers in International Journal of Analytical and Experimental Model Analysis.
+> Member of Google developer group (Hyderabad & Bangalore).
+> Practical exposure in applying ML techniques in Cloud platform (AWS).
+> Having a diverse experience in collating & analysing data, enhancing existing models & revamping business processes.
 
 <div align="center">
 <img  align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" /> <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPranav&layout=compact" />
