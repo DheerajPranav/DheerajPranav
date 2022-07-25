@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/dheerajpranav/
 
 > Built & Maintaining ML Community ( Machine Learning Club) for Discussions / Debates regarding Impact of AI in current society.
+
+
 > Published two Research papers in International Journal of Analytical and Experimental Model Analysis.
+
 > Member of Google developer group (Hyderabad & Bangalore).
+
 > Practical exposure in applying ML techniques in Cloud platform (AWS).
+
 > Having a diverse experience in collating & analysing data, enhancing existing models & revamping business processes.
 
 <div align="center">
