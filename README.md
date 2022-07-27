@@ -7,14 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Image Classification & Recommender System - Tasks & Using Cloud services for deployment.
-- 🌱 I’m currently learning AWS Services
+- 🌱 I’m currently learning AWS Services & trying to get Practical exposure in applying ML techniques in Cloud platform (AWS).
 - 👯 I’m looking to collaborate on Publishing Research work.
 - 💬 Ask me about AI-ML Stuff & I can help with Understanding Conceptual & Practical view AI.
 - 📫 How to reach me: linkedin.com/in/dheerajpranav/
 
 - Built & Maintaining ML Community ( Machine Learning Club) for Discussions / Debates regarding Impact of AI in current society.
 
-- Practical exposure in applying ML techniques in Cloud platform (AWS).
 - Having a diverse experience in collating & analysing data, enhancing existing models & revamping business processes.
 
 <div align="center">
