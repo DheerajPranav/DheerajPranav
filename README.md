@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - Having a diverse experience in collating & analysing data, enhancing existing models & revamping business processes.
 
 
+
+
 💻 *Languages and Tools:* 🛠️<br>
 
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring&logoColor=00FF7F&labelColor=ffffff)
@@ -28,7 +30,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-## 🏆 Github Status
+
+
+
+## 🏆 Github Stats
 
 <div align="center">
 <img  align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" /> <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPranav&layout=compact" />
