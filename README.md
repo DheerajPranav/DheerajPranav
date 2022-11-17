@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=00FF7F&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Air-Byte](https://img.shields.io/badge/-AirByte-000000?style=flat&logo=airbyte&logoColor=00FF7F&labelColor=0078D6)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00FF7F&labelColor=0078D6)
+![Air-Byte](https://img.shields.io/badge/-AirByte-000000?style=flat&logo=airbyte&labelColor=0078D6)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=0078D6)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-000000?style=flat&logo=postgresql&labelColor=ffffff)
 
