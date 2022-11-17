@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=00FF7F&labelColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&labelColor=ffffff)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&labelColor=ffffff)
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
