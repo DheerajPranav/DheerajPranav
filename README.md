@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-000000?style=flat&logo=postgresql&labelColor=ffffff)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch&labelColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&labelColor=ffffff)
+
 
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=00FF7F&labelColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&labelColor=ffffff)
