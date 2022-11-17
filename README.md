@@ -30,12 +30,14 @@ Here are some ideas to get you started:
 ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-000000?style=flat&logo=postgresql&labelColor=ffffff)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch&labelColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&labelColor=ffffff)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon&labelColor=ffffkt)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&labelColor=ffffkt)
 
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=00FF7F&labelColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&labelColor=ffffff)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-000000?style=flat&logo=googlecolab&labelColor=ffffkt)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&labelColor=ffffff)
 
+![Kibana](https://img.shields.io/badge/-Kibana-000000?style=flat&logo=kibana&labelColor=ffffkt)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=ffffff&labelColor=0078D6)
 
