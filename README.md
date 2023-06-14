@@ -1,21 +1,15 @@
-#### Holaaaaaa Folkssss 👋
+#### Heyyyyyy Peeps! 👋
 
 <!--
 **DheerajPranav/DheerajPranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:-->
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on Image Classification & Recommender System - Tasks & Using Cloud services for deployment.
-- 🌱 I’m currently learning AWS Services & trying to get Practical exposure in applying ML techniques in Cloud platform (AWS).
-- 👯 I’m looking to collaborate on Publishing Research work.
-- 💬 Ask me about AI-ML Stuff & I can help with Understanding Conceptual & Practical view AI.
-- 📫 How to reach me: linkedin.com/in/dheerajpranav/
-
-- Built & Maintaining ML Community ( Machine Learning Club) for Discussions / Debates regarding Impact of AI in current society.
-
-- Having a diverse experience in collating & analysing data, enhancing existing models & revamping business processes.
-
+- 🔭 Currently juggling Image Classification & Recommender Systems like a boss, while deploying them with the power of cloud services.
+- 🌱 Embracing the wonders of AWS Services and diving headfirst into the ML ocean, making waves in the Cloud platform.
+- 👯 Seeking fellow adventurers to collaborate on publishing groundbreaking research work.
+- 💬 AI-ML Stuff? Count me in! I'll help you navigate the realms of AI, from concept to practical application.
+- 📫 Let's connect on LinkedIn: linkedin.com/in/dheerajpranav/
+- Founder and Chief Curator of the Machine Learning Club, where we discuss, debate, and unravel the impact of AI in society. Join the brainy party!
 
 
 
