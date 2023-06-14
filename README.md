@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 - Founder and Chief Curator of the Machine Learning Club, where we discuss, debate, and unravel the impact of AI in society. Join the brainy party!
 
-
+###### Handle with caution and a sense of humor!
 
 💻 *Languages and Tools:* 🛠️<br>
 
