@@ -11,7 +11,9 @@ Here are some ideas to get you started:-->
 - 👯 Seeking fellow adventurers to collaborate on publishing groundbreaking research work.
 
 - 💬 AI-ML Stuff? Count me in! I'll help you navigate the realms of AI, from concept to practical application.
+
 - 📫 Let's connect on LinkedIn: linkedin.com/in/dheerajpranav/
+
 - Founder and Chief Curator of the Machine Learning Club, where we discuss, debate, and unravel the impact of AI in society. Join the brainy party!
 
 
