@@ -5,7 +5,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 Currently juggling Image Classification & Recommender Systems like a boss, while deploying them with the power of cloud services.
-- 
+
 - 👯 Seeking fellow adventurers to collaborate on publishing groundbreaking research work.
 
 - 💬 AI-ML Stuff? Count me in! I'll help you navigate the realms of AI, from concept to practical application.
