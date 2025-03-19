@@ -4,7 +4,7 @@
 **DheerajPranav/DheerajPranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-- 🔭 Currently juggling Image Classification & Recommender Systems like a boss, while deploying them with the power of cloud services.
+- 🔭 Currently juggling Image Classification & Recommender Systems, while deploying them with the power of cloud services.
 
 - 👯 Seeking fellow adventurers to collaborate on publishing groundbreaking research work.
 
