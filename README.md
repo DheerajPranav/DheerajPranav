@@ -1,20 +1,16 @@
-#### Heyyyyyy Peeps! 👋
+# 👋 Hey, I'm Dheeraj Pranav!
 
-<!--
-**DheerajPranav/DheerajPranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:-->
+Welcome to my digital forge — where curiosity meets code.
 
-- 🔭 Currently juggling Image Classification & Recommender Systems, while deploying them with the power of cloud services.
+🧠 I build machine learning models that think, learn, and (sometimes) surprise me.  
+Currently crafting solutions in **image classification**, **recommender systems**, and deploying them using cloud services.
 
-- 👯 Seeking fellow adventurers to collaborate on publishing groundbreaking research work.
+🔍 I maintain [**NeuroForge**](https://github.com/DheerajPranav/NeuroForge):  
+A personal lab for ML experiments — from regression and deep nets to time series forecasting and data storytelling.
 
-- 💬 AI-ML Stuff? Count me in! I'll help you navigate the realms of AI, from concept to practical application.
+📎 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dheerajpranav/)  
+🤝 Always up for collaboration, research, or a good AI debate over chai.
 
-- 📫 Let's connect on LinkedIn: linkedin.com/in/dheerajpranav/
-
-- Join up Machine Learning Club, where we discuss, debate, and unravel the impact of AI in society. Join the brainy party!
-
-###### Handle with caution and a sense of humor!
 
 💻 *Languages and Tools:* 🛠️<br>
 
