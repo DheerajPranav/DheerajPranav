@@ -61,6 +61,6 @@ Welcome to my digital forge — where curiosity meets code.
 ## 🏆 GitHub Stats
 
 <div align="center">
-<img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
-<img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajPranav&layout=compact" />
+<img align="center" height="140px" src="https://github-stats-extended.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
+<img align="center" height="140px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DheerajPranav&layout=compact" />
 </div>
