@@ -29,7 +29,7 @@ Persistent long-term memory for conversational LLMs, with background knowledge-g
 **Autonomous PR Review Agent** *(in progress)*
 A CrewAI reviewer wired into GitHub Actions that leaves inline comments on pull requests.
 
-**[ML-Personalised-FrameWork](https://github.com/DheerajPranav/ML-Personalised-FrameWork)** · Python
+**[Unboxed-ML](https://github.com/DheerajPranav/unboxed-ml)** · Python
 Core ML algorithms rebuilt from scratch, no black boxes.
 
 ---
