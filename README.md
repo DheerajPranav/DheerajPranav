@@ -84,6 +84,6 @@ Still figuring most of this out. That's the fun part.
 ## GitHub Stats
 
 <div align="center">
-<img align="center" height="140px" src="https://github-stats-extended.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true" />
+<img align="center" height="140px" src="https://github-stats-extended.vercel.app/api?username=DheerajPranav&count_private=true&show_icons=true&cache_seconds=86400&hide_title=true&v=2"/>
 <img align="center" height="140px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DheerajPranav&layout=compact" />
 </div>
