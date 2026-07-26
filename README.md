@@ -8,7 +8,6 @@ I work on retrieval, agent memory, evaluation, tracing, and failure testing for 
 
 [Portfolio](https://dheerajpranav.github.io) · [LinkedIn](https://www.linkedin.com/in/dheeraj-pranav/) · [Newsletter](https://neurotusks.substack.com)
 
-
 ---
 
 <div align="center">
